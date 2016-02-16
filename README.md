@@ -1,10 +1,10 @@
 # Side-Menu-and-Navbar
-
+<br/>
 Objectives:
--Animated hamburger button
--Navbar fades in when scrolling down
--Side menu shifts site content to the right
--Site content darkens when menu is displayed
-
+<br/>-Animated hamburger button
+<br/>-Navbar fades in when scrolling down
+<br/>-Side menu shifts site content to the right
+<br/>-Site content darkens when menu is displayed
+<br/>
 Tech: 
-jQuery, Bourbon, and Yeoman
+<br/>jQuery, Bourbon, and Yeoman
