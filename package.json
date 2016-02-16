@@ -39,5 +39,9 @@
         "single"
       ]
     }
+  },
+  "dependencies": {
+    "bourbon": "^4.2.6",
+    "neat": "^1.2.2"
   }
 }
