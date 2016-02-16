@@ -1,0 +1,19 @@
+{
+  "name": "side_menu_and_navbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMazzucco/Side-Menu-and-Navbar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMazzucco/Side-Menu-and-Navbar/issues"
+  },
+  "homepage": "https://github.com/JMazzucco/Side-Menu-and-Navbar#readme"
+}
